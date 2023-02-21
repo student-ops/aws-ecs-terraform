@@ -1,3 +1,3 @@
-for f in *.txt; do
-  mv "$f" "${f%.txt}.tf"
+for f in *.tf; do
+  mv "$f" "${f%.tf}.txt"
 done
