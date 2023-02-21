@@ -1,7 +1,8 @@
 # aws-ecs-terraform
 
 aws-ecs-terraform from zenn book
-rerun
+rerun a
+
 ## trouble
 
 -   modify aws iam role policy
